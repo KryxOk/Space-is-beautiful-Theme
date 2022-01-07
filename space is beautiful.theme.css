@@ -1,0 +1,40 @@
+/**
+* @name space is beautiful
+* @version 1.2
+* @description just... the space , Template: https://betterdiscord.app/theme/Frosted%20Glass 
+* @author KryxOk
+* @invite github.com/KryxOk
+* @Source github.com/KryxOk
+* @website https://github.com/KryxOk/Space-is-beautiful-Theme
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.imgur.com/8udDzUE.jpg');
+--background-image-blur: 5px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/GTJe6xR.jpg');
+--popout-modal-blur: 7px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 0,0,0;
+--gradient-secondary: 193,193,193;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 20px;
+--window-roundness: 10px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Whitney';
+--update-notice-1: none;
+}
